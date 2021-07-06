@@ -1,1 +1,0 @@
-# test-service-worker-on-gcloud
